@@ -85,8 +85,8 @@ IPAddress STAsubnet(255, 255, 255, 0);
 
 #endif
 
-#define STAssid  "kll-wlan"                // "mySSID"
-#define STApassword  "WELOVEKOH-SAMUI"     // "password"
+#define STAssid "mySSID"
+#define STApassword "password"
 
 #endif
 
